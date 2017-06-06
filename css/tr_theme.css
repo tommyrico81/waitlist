@@ -1,0 +1,44 @@
+#l1 {
+	margin: 0 auto;
+	padding: 5px;
+	width: 700px;
+	background-color:#d4dbd2;
+}
+
+#l2 {	
+	padding: 5px;
+	width: 690px;
+	color: #ffffff;
+	background-color:#80e567;
+}
+#infobox {
+	margin-top: 5px;
+	padding: 5px;
+	background-color:#c8cace;
+	color: #000000;
+}
+#infobox:hover {
+	margin-top: 5px;
+	padding: 5px;
+	background-color:#eaebed;
+	color: #777777;
+}
+#managebox {
+	height:18px;
+	width:49px;
+	background-color:#80e567;
+}
+
+.container {
+        width: 400px;
+        clear: both;
+}
+#cfname, #clname, #pfname, #plname, #email, #phone {
+       
+	width: 100%;
+    clear: both;
+}
+.container label {
+	
+	font-weight: bold;
+}
